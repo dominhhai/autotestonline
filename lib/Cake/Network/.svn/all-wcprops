@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/lib/Cake/Network
+END
+CakeSocket.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/lib/Cake/Network/CakeSocket.php
+END
+CakeRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/lib/Cake/Network/CakeRequest.php
+END
+CakeResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/lib/Cake/Network/CakeResponse.php
+END

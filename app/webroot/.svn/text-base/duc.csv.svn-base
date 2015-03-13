@@ -1,0 +1,14 @@
+﻿TestID,tesid_0001
+SubmitTime,2013,03,12,14,46,50
+Testee,ãƒ‰ãƒ¼ãƒ»ãƒŸãƒ³ãƒ»ãƒ�ã‚¤,20080849
+QS,1,S1
+QS,1,S3
+QS,1,S4
+QS,1,S1
+QS,1,SC,10
+QW,2,WR1,"noi dung wr1"
+QW,2,WR2,"noi dung wr2"
+QW,2,WR3,å¤§ä¸ˆå¤«ã��ã�†Â�Â†
+QW,2,SC,10
+QW,2,INS,CHK,fags
+TotalSC,10

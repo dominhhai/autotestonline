@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Locale/cache_test_po/LC_MESSAGES
+END
+default.po
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Locale/cache_test_po/LC_MESSAGES/default.po
+END
+dom1.po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Locale/cache_test_po/LC_MESSAGES/dom1.po
+END
+dom2.po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Locale/cache_test_po/LC_MESSAGES/dom2.po
+END

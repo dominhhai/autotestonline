@@ -1,0 +1,28 @@
+TestID,80
+SubmitTime,2013,4,7,17,42,49
+Testee,AS1-Binh,20080002
+QS,1,S(5)
+QS,1,SC,10
+QS,2,S(2)
+QS,2,S(5)
+QS,2,SC,10
+QS,3,S(4)
+QS,3,SC,10
+QW,4,WR1,せいかい
+QW,4,SC,20
+QW,4,INS,CHK,"neet mark"
+QS,5,S(5)
+QS,5,S(8)
+QS,5,SC,7
+QW,6,WR1,あいうえお
+QW,6,SC,0
+QW,6,INS,CHK,"neet mark"
+QW,7,WR1,かきくけこ
+QW,7,SC,10
+QW,7,INS,CHK,"neet mark"
+QW,8,WR1,あ
+QW,8,WR2,ま
+QW,8,WR3,た
+QW,8,SC,0
+QW,8,INS,CHK,"neet mark"
+TotalSC,67

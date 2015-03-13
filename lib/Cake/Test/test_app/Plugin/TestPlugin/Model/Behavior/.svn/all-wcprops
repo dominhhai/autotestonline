@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Plugin/TestPlugin/Model/Behavior
+END
+TestPluginPersisterTwoBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Plugin/TestPlugin/Model/Behavior/TestPluginPersisterTwoBehavior.php
+END
+TestPluginPersisterOneBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Plugin/TestPlugin/Model/Behavior/TestPluginPersisterOneBehavior.php
+END

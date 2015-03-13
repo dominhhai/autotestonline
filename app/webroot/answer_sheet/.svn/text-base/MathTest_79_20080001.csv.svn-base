@@ -1,0 +1,42 @@
+TestID,79
+SubmitTime,2013,4,7,17,33,3
+Testee,AS1-Anh,20080001
+QS,1,S(4)
+QS,1,SC,10
+QS,2,S(4)
+QS,2,S(5)
+QS,2,SC,10
+QS,3,S(4)
+QS,3,S(5)
+QS,3,SC,10
+QW,4,WR1,ちょうふく
+QW,4,SC,20
+QW,4,INS,CHK,"neet mark"
+QS,5,S(5)
+QS,5,S(7)
+QS,5,SC,2
+QW,6,WR1,質問
+QW,6,WR2,目的
+QW,6,WR3,目標
+QW,6,WR4,リーダ
+QW,6,WR5,メンバ
+QW,6,WR6,コミュニケーション
+QW,6,WR7,貢献
+QW,6,WR8,協力
+QW,6,WR9,やる気
+QW,6,WR10,
+QW,6,SC,27
+QW,6,INS,CHK,"neet mark"
+QW,7,WR1,コミュニケーション
+QW,7,WR2,責任感
+QW,7,WR3,
+QW,7,WR4,
+QW,7,WR5,
+QW,7,WR6,
+QW,7,WR7,
+QW,7,WR8,
+QW,7,WR9,
+QW,7,WR10,
+QW,7,SC,10
+QW,7,INS,CHK,"neet mark"
+TotalSC,89

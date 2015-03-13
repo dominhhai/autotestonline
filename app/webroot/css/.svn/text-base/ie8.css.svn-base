@@ -1,0 +1,20 @@
+
+/* IE8 CSS Adjustments */
+
+footer[role=contentinfo] section.copyright { background: url(../img/footer-sep.png) top center repeat-x }
+
+#header.logo-left form#search-box input {
+height: 45px;
+line-height: 45px;
+}
+
+ol.commentlist li.comment > .comment-content:after,
+ol.commentlist li.comment > .comment-author:before { display: none; }
+
+.slider .img img {
+width: auto;
+}
+
+form#search-box input[type="text"] {
+line-height: 3.5em !important;
+}

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/286/trunk/app/webroot
+END
+duc.csv
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/277/trunk/app/webroot/duc.csv
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/app/webroot/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/app/webroot/index.php
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5/trunk/app/webroot/favicon.ico
+END

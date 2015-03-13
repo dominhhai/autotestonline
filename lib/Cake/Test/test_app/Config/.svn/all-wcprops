@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Config
+END
+var_test2.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Config/var_test2.php
+END
+no_php_extension
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Config/no_php_extension
+END
+nested.ini
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Config/nested.ini
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Config/acl.ini.php
+END
+empty.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Config/empty.php
+END
+acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Config/acl.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Config/routes.php
+END
+htmlhelper_minimized.ini
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Config/htmlhelper_minimized.ini
+END
+no_ini_extension
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Config/no_ini_extension
+END
+htmlhelper_tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Config/htmlhelper_tags.php
+END
+empty.ini
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Config/empty.ini
+END
+var_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Config/var_test.php
+END
+acl.ini
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Config/acl.ini
+END
+no_section.ini
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/lib/Cake/Test/test_app/Config/no_section.ini
+END

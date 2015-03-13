@@ -1,0 +1,16 @@
+
+/* IE Stylesheet */
+
+input[type=text],
+input[type=password],
+input[type=url],
+input[type=email] {
+  line-height: 100% !important;
+}
+
+.gallery a {
+  display: inline !important;
+  padding: 0 !important; 
+  background: none !important; 
+  border: none !important;
+}

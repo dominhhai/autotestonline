@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/288/trunk/doc
+END
+test.bat
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/281/trunk/doc/test.bat
+END
+autotest.sql
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/257/trunk/doc/autotest.sql
+END
+autotestonline_10-4.sql
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/262/trunk/doc/autotestonline_10-4.sql
+END
